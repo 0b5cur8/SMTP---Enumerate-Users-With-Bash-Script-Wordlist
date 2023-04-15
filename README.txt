@@ -1,6 +1,6 @@
 # SMTP---Enumerate-Users-With-Bash-Script-Wordlist
 This script connects to an SMTP server via telnet then sends a VRFY command to the SMTP server for each line in a wordlist file. 
-The response from the server is then printed to the console.
+The response from the server is then printed in the terminal.
 
 Dependencies: Requires an empty line at the end of the wordlist and telnet.
 
